@@ -29,7 +29,6 @@ An interactive Excel dashboard designed to analyse sales performance across regi
 ## Dashboard Preview
 <img width="1920" height="1080" alt="Screenshot 2026-10-28 105731" src="https://github.com/user-attachments/assets/85a4780c-4841-4473-9226-e98fc5cb6464" />
 
-
 ## Files Included
 
 | File | Description |
