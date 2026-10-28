@@ -28,7 +28,7 @@ An interactive Excel dashboard designed to analyse sales performance across regi
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard_preview.png)
+![Dashboard]("C:\Users\Laxmi prasanna\OneDrive\Desktop\sales-performance-dashboard\dashboard.png")
 
 ## Files Included
 
