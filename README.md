@@ -27,7 +27,7 @@ An interactive Excel dashboard designed to analyse sales performance across regi
 - Conditional Formatting
 
 ## Dashboard Preview
-![alt text](dashboard_preview-1-1.png)
+![dashboard preview](<Screenshot 2026-10-28 105547.png>)
 
 ## Files Included
 
